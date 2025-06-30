@@ -69,7 +69,7 @@ export default function Settings() {
         >
           <h2>Password</h2>
           <p style={{ color: "gray", margin: "20px" }}>
-            Change your password here. After saving, you'll be logged out.
+            {`Change your password here. After saving, you'll be logged out.`}
           </p>
           <div style={{ marginBottom: "20px" }}>
             <label
